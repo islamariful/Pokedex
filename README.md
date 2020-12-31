@@ -1,5 +1,5 @@
 # Pokedex
-
+## A pokedex app built and optimized for iOS to keep track of Caught Pokemon
 Please do not copy this code and submit this as your own for the CS50 Problemset.
 
 Instead, use this as a guide and try to understand the code. This way if you run into a problem, you'll have a working understanding and know how to solve it.
